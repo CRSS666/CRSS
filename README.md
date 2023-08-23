@@ -10,4 +10,4 @@ we'll ban you
 
 ## 3. Don't Steal
 
-same as [2. Don't Grief](#2--don-t-grief)
+same as [2. Don't Grief](#2-don-t-grief)
