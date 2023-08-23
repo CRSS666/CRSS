@@ -22,3 +22,7 @@ same as [2. Don't Grief](#2-don-t-grief)
 - Land Size: not yet calculated™
 - Map: soon™
 - Flag: soon™
+
+
+## Sponsors
+- TCFRHC LLC
