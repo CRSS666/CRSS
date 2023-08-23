@@ -19,3 +19,4 @@
 
 ## ♥ Our sponsors:
 - TCFRHC LLC.
+- [Pridecraft Studios](https://pridecraft.gay)
