@@ -18,7 +18,7 @@
 - Map: soon™
 
 ### Democratic Republic of Rayland
-<img width="300px" alt="Banner of the Democratic Republic of Rayland" src="./Nations/Democratic%20Republic%20of%20Rayland/bannre.png">
+<img width="250px" alt="Banner of the Democratic Republic of Rayland" src="./Nations/Democratic%20Republic%20of%20Rayland/bannre.png">
 
 
 - President: NormalFery
