@@ -27,6 +27,16 @@
 - Land Size: not yet calculated™
 - Map: soon™ 
 
+### Chunkia
+<img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkiaBanner.png">
+
+
+- Prime Minister: WorldWidePixel
+- **Laws: Listen to WorldWidePixel, please.**
+- Flag: <img height="12px" alt="Flag of Chunkia" style="vertical-align: middle;" src="./Nations/Chunkia/chunkia512.png"> [(Link to image)](./Nations/Chunkia/chunkia512.png)
+- Land Size: not yet calculated™
+- Map: later™ 
+
 ### Public Browser Map
 
 The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0)
