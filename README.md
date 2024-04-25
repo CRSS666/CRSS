@@ -8,12 +8,12 @@
 
 ## Nations:
 
-### Republic of Panorama
-<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg">
+### Panorama Socialist Federation
+<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg"> <!-- this needs to be updated moyai -->
 
-- President: TheClashFruit.
+- Prime Minister: Sake (aka iforgotaname)
 - **Laws: [(Link to document)](./Nations/Republic%20of%20Panorama/Laws.md).**
-- Flag: <img height="12px" alt="Flag of Republic of Panorama" style="vertical-align: middle;" src="./Nations/Republic%20of%20Panorama/Flag.svg"> [(Link to image)](./Nations/Republic%20of%20Panorama/Flag.svg)
+- Flag: <img height="12px" alt="Flag of Panorama Socialist Federation" style="vertical-align: middle;" src="./Nations/Republic%20of%20Panorama/Flag.svg"> [(Link to image)](./Nations/Republic%20of%20Panorama/Flag.svg)
 - Land Size: not yet calculated™
 - Map: soon™
 
