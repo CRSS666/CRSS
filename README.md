@@ -37,6 +37,16 @@
 - Land Size: not yet calculated™
 - Map: later™ 
 
+### The Toaster-Königreich
+<img width="220px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png">
+
+
+- Established Party: The Toaster Party
+- **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
+- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
+- Land Size: not yet calculated™
+- Map: soon™ 
+
 ### Public Browser Map
 
 The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0)
