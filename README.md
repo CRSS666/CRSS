@@ -43,7 +43,7 @@
 
 - Established Party: The Toaster Party
 - **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
-- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="/Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
+- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
 - Land Size: not yet calculated™
 - Map: soon™ 
 
