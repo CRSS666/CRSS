@@ -45,7 +45,7 @@
 - **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
 - Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
 - Land Size: not yet calculated™
-- Map: <img height="20px" alt="TTK's Map" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png"> [(Link to map)](./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png)
+- Map: <img height="500px" alt="TTK's Map" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png"> [(Link to map)](./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png)
 
 ### Public Browser Map
 
