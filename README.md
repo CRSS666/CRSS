@@ -17,7 +17,7 @@
 - Land Size: not yet calculated™
 - Map: soon™
 
-### Democratic Republic of Rayland
+<!-- ### Democratic Republic of Rayland
 <img width="220px" alt="Banner of the Democratic Republic of Rayland" src="./Nations/Democratic%20Republic%20of%20Rayland/bannre.png">
 
 
@@ -25,7 +25,7 @@
 - **Laws: [(Over Here)](./Nations/Democratic%20Republic%20of%20Rayland/Laws.md).**
 - Flag: <img height="12px" alt="Flag of the Democratic Republic of Rayland" style="vertical-align: middle;" src="./Nations/Democratic%20Republic%20of%20Rayland/DRR_temp_flag.png"> [(Link to image)](./Nations/Democratic%20Republic%20of%20Rayland/DRR_temp_flag.png)
 - Land Size: not yet calculated™
-- Map: soon™ 
+- Map: soon™ -->
 
 ### Chunkia
 <img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkiaBanner.png">
