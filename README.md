@@ -6,9 +6,9 @@
 
 **Failing to follow these basic rules will result in a ban.**
 
-## Nations:
+# Nations:
 
-### Republic of Panorama
+## Republic of Panorama
 <img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg">
 
 - President: TheClashFruit.
@@ -17,7 +17,7 @@
 - Land Size: not yet calculated™
 - Map: soon™
 
-### Democratic Republic of Rayland
+## Democratic Republic of Rayland
 <img width="220px" alt="Banner of the Democratic Republic of Rayland" src="./Nations/Democratic%20Republic%20of%20Rayland/bannre.png">
 
 
@@ -27,7 +27,7 @@
 - Land Size: not yet calculated™
 - Map: soon™ 
 
-### Chunkia
+## Chunkia
 <img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkiaBanner.png">
 
 
@@ -37,7 +37,7 @@
 - Land Size: not yet calculated™
 - Map: later™ 
 
-### The Toaster-Königreich
+## The Toaster-Königreich
 <img width="220px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png">
 
 
@@ -45,7 +45,7 @@
 - **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
 - Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
 - Land Size: not yet calculated™
-- The Map of TTK
+### The Map of TTK
 
 <img height="500px" alt="TTK's Map" src="./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png"> 
 
