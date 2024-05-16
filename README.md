@@ -9,7 +9,7 @@
 ## Nations:
 
 ### Panorama Socialist Federation
-<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg"> <!-- this needs to be updated moyai -->
+<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg"> <!-- this needs to be updated moyai - Not anymore!!  -->
 
 - Prime Minister: Sake (aka iforgotaname)
 - **Laws: [(Link to document)](./Nations/Republic%20of%20Panorama/Laws.md).**
@@ -17,7 +17,7 @@
 - Land Size: not yet calculated™
 - Map: soon™
 
-### Democratic Republic of Rayland
+<!-- ### Democratic Republic of Rayland
 <img width="220px" alt="Banner of the Democratic Republic of Rayland" src="./Nations/Democratic%20Republic%20of%20Rayland/bannre.png">
 
 
@@ -26,7 +26,7 @@
 - Flag: <img height="12px" alt="Flag of the Democratic Republic of Rayland" style="vertical-align: middle;" src="./Nations/Democratic%20Republic%20of%20Rayland/DRR_temp_flag.png"> [(Link to image)](./Nations/Democratic%20Republic%20of%20Rayland/DRR_temp_flag.png)
 - Land Size: not yet calculated™
 - Map: soon™ 
-
+-->
 ### Chunkia
 <img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkiaBanner.png">
 
