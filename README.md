@@ -46,7 +46,9 @@
 - Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
 - Land Size: not yet calculated™
 - The Map of TTK
+
 <img height="500px" alt="TTK's Map" src="./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png"> 
+
 [(Link to map)](./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png)
 
 ### Public Browser Map
