@@ -47,6 +47,15 @@
 - Land Size: not yet calculated™
 - Map: soon™ 
 
+### Republic of Budapest
+<img width="300px" alt="Banner of Republic of Panorama" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Budapest_%282011-%29.svg"> <!-- this needs to be updated moyai -->
+
+- Prime Minister: TheClashFruit
+- Laws: [(Link to document)](./Nations/Republic%20of%20Budapest/Laws.md).
+- Flag: <img height="12px" alt="Flag of Republic of Budapest" style="vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Budapest_%282011-%29.svg"> [(Link to image)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Budapest_%282011-%29.svg)
+- Land Size: not yet calculated™
+- Map: soon™
+
 ### Public Browser Map
 
 The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0)
