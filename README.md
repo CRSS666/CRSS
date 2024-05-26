@@ -48,12 +48,12 @@
 - Map: soon™ 
 
 ### Republic of Budapest
-<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic of Budapest/Assets/Banner.svg"> <!-- this needs to be updated moyai -->
+<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic of Budapest/Assets/Banner.svg">
 
 - Prime Minister: TheClashFruit
 - Languages: Hungarian, English, German
 - Laws: [(Link to document)](./Nations/Republic%20of%20Budapest/Laws.md).
-- Flag: <img height="12px" alt="Flag of Republic of Budapest" style="vertical-align: middle;" src="./Nations/Republic%20of%20Budapest/Assets/Flag.svg"> [(Link to image)](../Nations/Republic%20of%20Budapest/Assets/Flag.svg)
+- Flag: <img height="12px" alt="Flag of Republic of Budapest" style="vertical-align: middle;" src="./Nations/Republic%20of%20Budapest/Assets/Flag.svg"> [(Link to image)](./Nations/Republic%20of%20Budapest/Assets/Flag.svg)
 - Land Size: not yet calculated™
 - Map: [(-2144; -320)](https://crss.blurryface.xyz/map?center=-2144.5;-320.5)
 
