@@ -6,18 +6,18 @@
 
 **Failing to follow these basic rules will result in a ban.**
 
-# Nations:
+## Nations:
 
-## Republic of Panorama
-<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg">
+### Panorama Socialist Federation
+<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic%20of%20Panorama/Banner.svg"> <!-- this needs to be updated moyai -->
 
-- President: TheClashFruit.
+- Prime Minister: Sake (aka iforgotaname)
 - **Laws: [(Link to document)](./Nations/Republic%20of%20Panorama/Laws.md).**
-- Flag: <img height="12px" alt="Flag of Republic of Panorama" style="vertical-align: middle;" src="./Nations/Republic%20of%20Panorama/Flag.svg"> [(Link to image)](./Nations/Republic%20of%20Panorama/Flag.svg)
+- Flag: <img height="12px" alt="Flag of Panorama Socialist Federation" style="vertical-align: middle;" src="./Nations/Republic%20of%20Panorama/Flag.svg"> [(Link to image)](./Nations/Republic%20of%20Panorama/Flag.svg)
 - Land Size: not yet calculated™
 - Map: soon™
 
-## Democratic Republic of Rayland
+<!-- ### Democratic Republic of Rayland
 <img width="220px" alt="Banner of the Democratic Republic of Rayland" src="./Nations/Democratic%20Republic%20of%20Rayland/bannre.png">
 
 
@@ -25,9 +25,9 @@
 - **Laws: [(Over Here)](./Nations/Democratic%20Republic%20of%20Rayland/Laws.md).**
 - Flag: <img height="12px" alt="Flag of the Democratic Republic of Rayland" style="vertical-align: middle;" src="./Nations/Democratic%20Republic%20of%20Rayland/DRR_temp_flag.png"> [(Link to image)](./Nations/Democratic%20Republic%20of%20Rayland/DRR_temp_flag.png)
 - Land Size: not yet calculated™
-- Map: soon™ 
+- Map: soon™ -->
 
-## Chunkia
+### Chunkia
 <img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkiaBanner.png">
 
 
@@ -37,19 +37,25 @@
 - Land Size: not yet calculated™
 - Map: later™ 
 
-## The Toaster-Königreich
-<img width="220px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png">
+### The Toaster-Königreich
+<img width="220px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/ttkroundel.svg">
 
 
-- Established Party: The Toaster Party
+- Established Chancellor: Lupancham
 - **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
-- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
+- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg)
 - Land Size: not yet calculated™
-### The Map of TTK
+- Map: [(-573; -5123)](https://crss.blurryface.xyz/map?center=-573;-5123) 
 
-<img height="500px" alt="TTK's Map" src="./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png"> 
+### Republic of Budapest
+<img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic of Budapest/Assets/Banner.svg">
 
-[(Link to map)](./Nations/The%20Toaster-Königreich/Map%20of%20TTK.png)
+- Prime Minister: TheClashFruit
+- Languages: Hungarian, English, German
+- Laws: [(Link to document)](./Nations/Republic%20of%20Budapest/Laws.md).
+- Flag: <img height="12px" alt="Flag of Republic of Budapest" style="vertical-align: middle;" src="./Nations/Republic%20of%20Budapest/Assets/Flag.svg"> [(Link to image)](./Nations/Republic%20of%20Budapest/Assets/Flag.svg)
+- Land Size: not yet calculated™
+- Map: [(-2144; -320)](https://crss.blurryface.xyz/map?center=-2144.5;-320.5)
 
 ### Public Browser Map
 
