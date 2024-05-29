@@ -38,7 +38,7 @@
 - Map: later™ 
 
 ### The Toaster-Königreich
-<img width="250px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/banner.svg">
+<img width="280px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/banner.svg">
 
 
 - Established Chancellor: Lupancham
