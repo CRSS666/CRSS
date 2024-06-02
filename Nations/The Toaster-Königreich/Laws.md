@@ -74,3 +74,20 @@
 2. **Community Service**: Offenders may be required to perform community service, contributing positively to society and making amends for their actions.
 
 The judicial system of The Toaster-Königreich is founded on the principles of fairness, collective responsibility, and the betterment of society as a whole. It seeks not only to punish but to educate, rehabilitate, and restore.
+
+# Territorial Laws
+- These laws applies to the claimed territories outside TTK's main border
+### Section 1: Building Rights
+1. Building within the claims must be approved by the state and buildings that are built within the territories may be destroyed as they are not recognized by the state
+2. Robbery is prohibited on recognized buildings and is seen as a felony which can lead to the maximum punishment of imprisonment
+3. Landowners are not required to pay the state fees as they do not receive any state services.
+
+### Section 2: Expansion
+1. The TTK does not fully exert control over these regions, but rather explores them for geographic reasons and may set up claimed camps.
+2. Businesses may set up claimed areas in similarity to Charge Industries Foraging Camps.
+
+# Citizenship
+- A player may fill this word document out and send it to @lupancham on discord in order to become a Toasterian Citizen.
+  ``Note: A player will abandon their previous citizenship unless stated that they wish to become a overseas citizen.``
+
+[Download Citizenship Documents (Role play)](https://cdn.discordapp.com/attachments/1232871419344457820/1241902279678890074/TTK_Citizenship_Papers.docx?ex=6657c0a0&is=66566f20&hm=34f04fcf36e1a201bc231adecc3dbfb0547d96a7abe07e2dbd3a741774bc875d&)
