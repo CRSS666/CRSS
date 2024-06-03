@@ -38,14 +38,14 @@
 - Map: later™ 
 
 ### The Toaster-Königreich
-<img width="220px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png">
+<img width="280px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/banner.svg">
 
 
-- Established Party: The Toaster Party
+- Established Chancellor: Lupancham
 - **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
-- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.png)
+- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg)
 - Land Size: not yet calculated™
-- Map: soon™ 
+- Map: [(-573; -5123)](https://crss.blurryface.xyz/map?center=-573;-5123) 
 
 ### Republic of Budapest
 <img width="300px" alt="Banner of Republic of Panorama" src="./Nations/Republic of Budapest/Assets/Banner.svg">
