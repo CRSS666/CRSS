@@ -60,7 +60,7 @@
 ### Romanian Federation of Minecraft
 <img width="300px" alt="Logo of the Romanian Federation of Minecraft" src="./Nations/Romanian Federation of Minecraft/RFM logo.svg">
 
-- Chief Executive Officer: polycord aka bluaxol
+- President: polycord aka bluaxol
 - Languages: Romanian, English
 - Laws: not there yet, just listen to polycord
 - Flag: <img height="12px" alt="Flag of the Romanian Federation of Minecraft" style="vertical-align:middle;" src="./Nations/Romanian%20Federation%20of%20Minecraft/FMC flag.svg"> [(Link to image)](./Nations/Romanian%20Federation%20of%20Minecraft/FMC%20flag.svg)
