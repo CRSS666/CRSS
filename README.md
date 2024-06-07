@@ -57,6 +57,17 @@
 - Land Size: not yet calculated™
 - Map: [(-2144; -320)](https://crss.blurryface.xyz/map?center=-2144.5;-320.5)
 
+### Romanian Federation of Minecraft
+<img width="300px" alt="Logo of the Romanian Federation of Minecraft" src="./Nations/Romanian Federation of Minecraft/RFM logo.svg">
+
+- President: polycord aka bluaxol
+- Languages: Romanian, English
+- Laws: not there yet, just listen to polycord
+- Flag: <img height="12px" alt="Flag of the Romanian Federation of Minecraft" style="vertical-align:middle;" src="./Nations/Romanian%20Federation%20of%20Minecraft/FMC flag.svg"> [(Link to image)](./Nations/Romanian%20Federation%20of%20Minecraft/FMC%20flag.svg)
+- Land size: not calculated™
+- Map: coming soon™
+
+
 ### Public Browser Map
 
 The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0)
