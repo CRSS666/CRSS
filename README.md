@@ -63,7 +63,7 @@
 - Chief Executive Officer: polycord aka bluaxol
 - Languages: Romanian, English
 - Laws: not there yet, just listen to polycord
-- Flag: <img height="12px" alt="Flag of the Romanian Federation of Minecraft" style="vertical-align:middle;" src="./Nations/Romanian%20Federation%20of%20Minecraft/FMC flag.svg"> [(Link to image)](https://google.com)
+- Flag: <img height="12px" alt="Flag of the Romanian Federation of Minecraft" style="vertical-align:middle;" src="./Nations/Romanian%20Federation%20of%20Minecraft/FMC flag.svg"> [(Link to image)](./Nations/Romanian%20Federation%20of%20Minecraft/FMC%20flag.svg)
 - Land size: not calculated™
 - Map: coming soon™
 
