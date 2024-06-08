@@ -67,6 +67,14 @@
 - Land size: not calculated™
 - Map: coming soon™
 
+### The Toasteric Colony of Grapetopia
+<img width="300px" alt="Banner of TCG" src="./Nations/Grapetopia/TCGlogo.svg">
+
+- Leader In Charge: MrLagSwitcha
+- Laws: ***Soon™***.
+- Flag: <img height="12px" alt="Flag of TCG" style="vertical-align: middle;" src="./Nations/Grapetopia/TCG.svg"> [(Link to image)](./Nations/Grapetopia/TCG.svg)
+- Land ≈384m²
+- Map: [(-7589; -2878)](https://crss.blurryface.xyz/map?center=-7589;2878)
 
 ### Public Browser Map
 
