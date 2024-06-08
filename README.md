@@ -67,6 +67,15 @@
 - Land size: not calculated™
 - Map: coming soon™
 
+### The Toasteric Colony of Grapetopia
+<img width="300px" alt="Banner of TCoG" src="./Nations/Grapetopia/TCOGlogo.svg">
+
+- Leader In Charge: MrLagSwitcha
+- Languages: Yap
+- Laws: ***Soon™***.
+- Flag: <img height="12px" alt="Flag of TCOG" style="vertical-align: middle;" src="./Nations/Grapetopia/Grapetopia.svg"> [(Link to image)](./Nations/Republic%20of%20Budapest/Assets/Flag.svg)
+- Land ≈384m²
+- Map: [(-7589; -2878)](https://crss.blurryface.xyz/map?center=-7589;2878)
 
 ### Public Browser Map
 
