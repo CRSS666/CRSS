@@ -3,6 +3,7 @@
   <defs>
     <style>
       .cls-1 {
+        fill: #fbb03c;
       }
 
       .cls-1, .cls-2 {
