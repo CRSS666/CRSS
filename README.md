@@ -20,7 +20,9 @@
 
 - Breaking laws isn't bannable, the nation you are in will take measures and punish you for your actions as they see fit.
 
-4. Do not attempt to make nations where the territory is already owned by another nation - You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
+4. Do not attempt to make nations where the territory is already owned by another nation
+
+- You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
 
 - Other nations are free to claim more territory whenever they feel like it, as long as it doesnt take other nations' territory with it
 
