@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3267.22 614.44">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-5 {
+        stroke-width: 16px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-2 {
+        font-family: R41Stop-Uppercase, 'R41 Stop';
+        font-size: 292.42px;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <polygon class="cls-1" points="3232.8 247.66 2928.06 397.12 2916.52 402.79 2503.67 605.29 2921.67 380.15 2941.1 369.68 3122.64 271.91 2966.85 268.97 2946.85 268.6 2822.71 266.24 2822.69 266.24 2804.95 265.91 1774.56 246.45 2973.52 247.45 3232.8 247.66"/>
+      <line class="cls-5" x1="1774.56" y1="246.45" x2="9.25" y2="246.45"/>
+      <polygon class="cls-4" points="2884.71 613.78 2995.11 107.04 2682.18 403.63 3048.85 9.12 2884.71 613.78"/>
+    </g>
+    <text class="cls-2" transform="translate(19.45 504.07)"><tspan x="0" y="0">Ch</tspan><tspan class="cls-6" x="366.98" y="0">a</tspan><tspan x="535.7" y="0">rge Indu</tspan><tspan class="cls-7" x="1750.96" y="0">s</tspan><tspan x="1882.55" y="0">tries</tspan></text>
+  </g>
+  <rect class="cls-3" x="2.71" y="239.84" width="13.08" height="13.08" transform="translate(-171.51 78.71) rotate(-45)"/>
+</svg>
