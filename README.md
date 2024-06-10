@@ -76,9 +76,9 @@
 - Land ≈384m²
 - Map: [(-7589; -2878)](https://crss.blurryface.xyz/map?center=-7589;2878)
 
-### Public Browser Map
+<!-- ### Public Browser Map
 
-The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0)
+The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0) -->
 
 ## ♥ Our sponsors:
 - TCFRHC LLC.
