@@ -1,5 +1,5 @@
 # Clyde's Real Survival SMP
-
+## Server Rules
 1. The use of modified clients that give an unfair advantage to players, such as hacked clients, is not permitted.
 
 - You are not allowed to use them even for their legitimate features, such as a fullbright option
