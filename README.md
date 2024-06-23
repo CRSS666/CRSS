@@ -66,13 +66,13 @@
 - Land Size: not yet calculated™
 - Map: later™ 
 
-### The Toaster-Königreich
-<img width="280px" alt="Banner of the Toaster-Königreich" src="./Nations/The%20Toaster-Königreich/banner.svg">
+### Toasteria
+<img width="280px" alt="Banner of Toasteria" src="./Nations/Toasteria/ToasteriaFlag.svg">
 
 
 - Established Chancellor: Lupancham
-- **Laws: [(Over Here)](./Nations/The%20Toaster-Königreich/Laws.md).**
-- Flag: <img height="12px" alt="Flag of the Toaster-Königreich" style="vertical-align: middle;" src="./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg)
+- **Laws: [(Over Here)](./Nations/Toasteria/Laws.md).**
+- Flag: <img height="12px" alt="Flag of Toasteria" style="vertical-align: middle;" src="./Nations/Toasteria/ToasteriaFlag.svg"> [(Link to image)](./Nations/The%20Toaster-Königreich/The%20Toaster-Königreich%20Flag.svg)
 - Land Size: not yet calculated™
 - Map: [(-573; -5123)](https://crss.blurryface.xyz/map?center=-573;-5123) 
 
