@@ -59,6 +59,18 @@ listen to the admins
 - Land size: not calculated™
 - Map: coming soon™
 
+### Omicron
+
+<img width="300px" alt="Omicron Banner" src="./Nations/Omicron/Assets/Banner.svg">
+
+- Leader: DeltaSandwich
+- Languages: TBD
+- Laws: not there yet, just listen to DeltaSandwich
+- Flag: <img height="12px" alt="Flag of Omicron" style="vertical-align:middle;" src="./Nations/Omicron/Assets/Flag.svg"> [(Link to image)](./Nations/Omicron/Assets/Flag.svg)
+- Land size: not calculated™
+- Map: coming soon™
+
+
 <!-- ### Public Browser Map
 
 The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0) -->
