@@ -19,7 +19,7 @@ listen to the admins
 
 ### Chunkia
 
-<img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkiaBanner.png">
+<img width="220px" alt="Banner of Chunkia" src="./Nations/Chunkia/chunkia_banner.png">
 
 - Prime Minister: WorldWidePixel
 - **Laws: Listen to WorldWidePixel, please.**
