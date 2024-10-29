@@ -10,7 +10,18 @@ This is CRSS2, a server from the same owners of CRSS, and that has the same base
 
 ## Nations
 
-None yet!
+### The Kingdom of Ramica
+
+[<img width="220px" alt="Banner of KOR" src="./nations/kingdom_of_ramica/korbanner.svg">](./nations/kingdom_of_ramica/korbanner.png)
+
+- Queen: **Lupancham** 
+  - October 28, 2024 - Current
+- Other Figures: [**Over Here**](./nations/kingdom_of_ramica/figures.md)
+- Laws: [**Over Here**](./nations/kingdom_of_ramica/laws.md)
+- Flag: <img height="12px" alt="Flag of KOR" style="vertical-align: middle;" src="./nations/kingdom_of_ramica/korflag.svg"> [(Link to image)](./nations/kingdom_of_ramica/korflag.png)
+- Land Size: not yet calculated™
+- Map: later™ (It's b1.0 lmafo)
+
 
 ## ♥ Our sponsors
 
