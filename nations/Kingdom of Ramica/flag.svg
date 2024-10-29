@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1921.5 1080.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #c1272d;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-2" x="1" y=".5" width="1920" height="1080"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <polygon class="cls-1" points="1921.5 1011 1920.5 1080 1852.5 1080 1.5 69 .5 0 69.5 0 1921.5 1011"/>
+    <polygon class="cls-1" points="0 1011.5 1 1080.5 69 1080.5 1920 69.5 1921 .5 1852 .5 0 1011.5"/>
+    <rect class="cls-1" x="919" y=".5" width="84" height="1080"/>
+    <rect class="cls-1" x="916" y="-419.5" width="90" height="1920" transform="translate(420.5 1501.5) rotate(-90)"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-2" x="1003" y=".5" width="44" height="495"/>
+    <rect class="cls-2" x="875" y=".5" width="44" height="495"/>
+    <rect class="cls-2" x="875" y="585.5" width="44" height="495"/>
+    <rect class="cls-2" x="1003" y="585.5" width="44" height="495"/>
+    <rect class="cls-2" x="1429" y="159.5" width="44" height="896" transform="translate(843.5 2058.5) rotate(-90)"/>
+    <rect class="cls-2" x="1429" y="25.5" width="44" height="896" transform="translate(977.5 1924.5) rotate(-90)"/>
+    <rect class="cls-2" x="449" y="25.5" width="44" height="896" transform="translate(-2.5 944.5) rotate(-90)"/>
+    <rect class="cls-2" x="449" y="159.5" width="44" height="896" transform="translate(-136.5 1078.5) rotate(-90)"/>
+  </g>
+</svg>
