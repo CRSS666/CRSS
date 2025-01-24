@@ -59,6 +59,71 @@ listen to the admins
 - Land size: not calculated™
 - Map: coming soon™
 
+## Companies
+
+### Blurbank
+
+<img width="300px" alt="Blurbank Logo" src="./Companies/Republic of Panorama/Blurbank/Blurbank Logo.svg">
+
+- Type: Bank
+- Description: "Blurbank is the first and greatest bank of the CRSS world. With high quality banking services, and high security vaults, you can trust Blurbank with your diamonds more than you can trust Ender Chests."
+- Origin: Republic of Panorama
+- Locations: ROP, RFM
+- Owner(s): Blurryface
+- Subsidiaries: None
+- Icon: <img height="12px" alt="Blurbank Icon" style="vertical-allign:middle;" src="./Companies/Republic%20of%20Panorama/Blurbank/Blurbank%20Icon.svg> [(Link to image)](./Companies/Republic%20of%20Panorama/Blurbank/Blurbank%20Icon.svg)
+- Worth: Not yet calculated™
+- Locations on map: [ROP](https://crss.cc/), [ROP (2)](https://crss.cc), [RFM](https://crss.cc)
+
+### Quartz Industries Inc.
+
+<>
+
+- Subsidiaries: Quartz Media LLC
+
+### Northern
+
+<>
+
+### XYZ Media
+
+<>
+
+### ROP Casino
+
+<>
+
+### Charge Industries
+
+<>
+
+### RUN
+
+<>
+
+### Toasteria National Bank
+
+<>
+
+### Gay Co.
+
+<>
+
+### ROP Postal Office
+
+<>
+
+### Deforest Corp
+
+<>
+
+### Quartz Media LLC
+
+<>
+
+- Owner(s): Quartz Industries Inc.
+
+
 <!-- ### Public Browser Map
 
 The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64,-60;0) -->
