@@ -2,8 +2,18 @@
 
 ## Server Rules
 
-rules coming soon
-listen to the admins
+1. The use of modified clients that give an unfair advantage to players, such as hacked clients, is not permitted.
+    - You are not allowed to use them even for their legitimate features, such as a "fullbright" option.
+    - If admins suspect you are hacking you will be immediately banned.
+2. Do not modify or destroy (grief) other player's constructions without their consent, or steal any of their items.
+    - You are allowed to visit any build, as long as you don't take anything, and if you do you pay them back.
+    - You should ask permission in the discord or the in-game chat before modifying builds.
+3. Follow the laws of the nations you are in to avoid issues with other players and making the server not fun to play.
+    - If you feel the laws are too vague, feel free to ask the people in charge of them what they mean with something, and feel free to contribute to them. Complaining that they don't make sense won't get you anywhere.
+    - Breaking laws won't necessarily get you banned, the nation you are in will take measures and punish you for your actions as they see fit.
+4. Do not attempt to make nations where the territory is already owned by another nation.
+You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
+    - Other nations are free to claim more territory whenever they feel like it, as long as it doesn't take other nations' territory with it.
 
 ## Nations
 
