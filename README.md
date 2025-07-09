@@ -238,13 +238,17 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 <img width="300px" alt="Quartz Media LLC Banner" src="./Companies/Republic of Panorama/Quartz Industries/QMBanner.svg">
 
-- Type: TBA
-- Description: "TBA"
-- Origin: Toasteria
+- Type: Audiovisual Media Producer
+  - Studios:
+    - Quartz Studios (ROP, CRSS)
+    - Oak Studios (   , CRSS 3)
+    - Golden Studios (Strudel, Craftocracy)
+- Description: "Panorama's greatest audiovisual media producer, creators of Quartz News Network"
+- Origin: Republic of Panorama
 - Locations: TOA
 - Owner(s): Lupancham
 - Owner(s): Quartz Industries Inc.
-- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Toasteria/Charge%20Industries/ChargeIcon.svg)
+- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Republic%20of%20Panorama/Quartz%Industries/Quartz%Media/QuartzMediaIcon.svh)
 - Worth: Not yet calculated™
 - Locations on map: [ROP](https://crss.cc/)
 
@@ -256,7 +260,6 @@ The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64
 ## ♥ Our sponsors
 
 - TCFRHC LLC.
-- LRHC LLC.
+- Craftocracy
 - [Pridecraft Studios](https://pridecraft.gay).
 - [Badger](https://badger.worldwidepixel.ca).
-- [NotEssential](https://notessential.blurry.gay).
