@@ -245,8 +245,7 @@ You can make it near the borders of a nation but never inside one, you can't jus
     - Golden Studios (Strudel, Craftocracy)
 - Description: "Panorama's greatest audiovisual media producer, creators of Quartz News Network"
 - Origin: Republic of Panorama
-- Locations: TOA
-- Owner(s): Lupancham
+- Locations: ROP,    , Strudel
 - Owner(s): Quartz Industries Inc.
 - Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Republic%20of%20Panorama/Quartz%Industries/Quartz%Media/QuartzMediaIcon.svh)
 - Worth: Not yet calculated™
