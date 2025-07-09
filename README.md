@@ -33,13 +33,25 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 - President: Steve
 - **Laws: [(Link to document)]().**
-- Flag: <img height="12px" alt="Flag of Panorama Socialist Federation" style="vertical-align: middle;" src="./Nations/Republic%20of%20Panorama/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
+- Flag: <img height="12px" alt="Flag of Panorama Socialist Federation" style="vertical-align: middle;" src="./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
 - Land Size: not yet calculated™
 - Map: coming soon™
 
 ↑↑↑ template ↑↑↑ -->
 
 ## Companies
+
+### GREAT
+
+<img width="300px" alt="Quartz Media LLC Banner" src="./Companies/missing/GTEAT/GREATlogo.svg">
+
+- Type: Transport
+- Description: "Providing convenient transportation to all."
+- Origin: unknowm
+- Locations: UNK
+- Owner(s): Blurryface
+- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/missing/GTEAT/GREATicon.svg"> [(Link to image)](./Companies/missing/GTEAT/GREATicon.svg)
+- Worth: Not Yet Calculated™
 
 ### Quartz Media LLC
 
@@ -54,10 +66,8 @@ You can make it near the borders of a nation but never inside one, you can't jus
 - Origin: Republic of Panorama
 - Locations: ROP,    , Strudel
 - Owner(s): Quartz Industries Inc.
-- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Republic%20of%20Panorama/Quartz%Industries/Quartz%Media/QuartzMediaIcon.svh)
+- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Republic%20of%20Panorama/Quartz%Industries/Quartz%Media/QuartzMediaIcon.svg)
 - Worth: Not yet calculated™
-- Locations on map: [ROP](https://crss.cc/)
-
 
 <!-- ### Public Browser Map
 
