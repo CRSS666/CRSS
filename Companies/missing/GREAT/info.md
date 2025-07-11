@@ -6,7 +6,10 @@
 - Type: Transport
 - Owner(s): Blurryface
 - Worth: Not Yet Calculated™
-- Location: TBA™
+- Locations:
+  - Line 0:
+  
+    Mato Grosso St., 1 (32, 71, 137) 
 
 ## Description
 
