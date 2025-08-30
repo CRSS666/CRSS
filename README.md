@@ -47,6 +47,14 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 ↑↑↑ template ↑↑↑ -->
 
+### Directly Incredible Kilometer
+
+- President: NormalFery (Fery)
+- **Laws: soon™**
+- Flag: <img height="12px" alt="Flag of Directly Incredible Kilometer" style="vertical-align: middle;" src="./Nations/directly-incredible-kilometer/dik-flag.png"> [(Link to image)](./Nations/directly-incredible-kilometer/dik-flag.png)
+- Land Size: not yet calculated™
+- Map: coming soon™
+
 ## Companies
 
 ### GREAT
