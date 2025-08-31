@@ -1,20 +1,14 @@
-# CRSS
-
-Welcome to Clyde's Real Survival SMP (CRSS)!
+# Clyde's Real Survival SMP
 
 ## Information
 
-This is CRSS, a server created by [Blurry](https://blurry.gay). The server's twist is that it started on [b1.0](https://minecraft.wiki/w/b1.0) and updated all the way to [1.21.8](https://minecraft.wiki/w/1.21.8) on the start of each month, or more recently, when new versions get supported by the server-side mods we use.
+Welcome to Clyde's Real Survival SMP, CRSS for short. We are a small SMP server that updates to every version starting from b1.0 on the 1st of every month. We have a small community of players that are mostly very friendly and welcoming to new players. We have a few rules that you should follow to make the server a better place for everyone, you can find them at the rules section below.
 
-We've been doing this for a good while, and our server has many structures and has had many players.
+As of 30/12/2024, the server has reached the latest version of Minecraft, which kind of kills its twist. The server will remain open until Clash or Oracle decide to nuke it, and there is a tertiary server called CRSS 3, which runs on b1.7.3 ,if you're into "Golden Age" Minecraft. CRSS 3 info will be added to the website sometime in the future. CRSS2 has been deleted by Oracle.
 
-It currently has 3 main nations, ROP, TOA and CHK, each one with unique styles and terrain.
+The server is built on the idea of nations, featuring 6 nations so far, with the oldest being the Republic of Panorama. These nations are scattered around the map, with some being more active than others. You can be sure to find a nation that fits your playstyle, if not you can just start your own!
 
-We have an [Youtube channel](https://yt.crss.cc) where we post content from our server. You can subscribe to it to stay tuned with CRSS content and new episodes of Quartz News Network.
-
-The seed used in the world is the same seed the first Main Menu Panorama used, and a pack with a panorama from the area which we built over, on the original coordinates.
-
-## Rules
+## Server Rules
 
 1. The use of modified clients that give an unfair advantage to players, such as hacked clients, is not permitted.
     - You are not allowed to use them even for their legitimate features, such as a "fullbright" option.
@@ -28,8 +22,6 @@ The seed used in the world is the same seed the first Main Menu Panorama used, a
 4. Do not attempt to make nations where the territory is already owned by another nation.
 You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
     - Other nations are free to claim more territory whenever they feel like it, as long as it doesn't take other nations' territory with it.
-
-***Failing to follow these rules may result in a ban.***
 
 ## Nations
 
@@ -93,11 +85,5 @@ The server also has a [(Public Map!)](http://141.147.29.5:25582/#crss;flat;64,64
 
 - TCFRHC LLC.
 - Craftocracy
-- Quartz Media
-- The Northern Party
 - [Pridecraft Studios](https://pridecraft.gay).
 - [Badger](https://badger.worldwidepixel.ca).
-
-*Note: Sponsors in CRSS are RP-only and have no monetary or contractual relations with CRSS.*
-
-**© 2023 - 2025 CRSS**
