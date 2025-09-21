@@ -40,36 +40,56 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 ### Goose Amphitheatre Yogurt
 
-<img width="300px" alt="Banner of Goosw Amphitheatre Yogurt" src="./Nations/Goose%20Amphitheatre%20Yogurt/Banner.svg">
+<img width="300px" alt="Banner of Goose Amphitheatre Yogurt" src="./Nations/Goose%20Amphitheatre%20Yogurt/Banner.svg">
 
+- 3ltr: `GAY`
 - President: Steve
 - **Laws: [(Link to document)]().**
-- Flag: <img height="12px" alt="Flag of Panorama Socialist Federation" style="vertical-align: middle;" src="./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
+- Flag: <img height="12px" alt="Flag of Goose Ampitheatre Yogurt" style="vertical-align: middle;" src="./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
 - Land Size: not yet calculated™
 - Map: coming soon™
 
 ↑↑↑ template ↑↑↑ -->
 
+### `   `
+
+<img width="300px" alt="Banner of    " src="./Nations/Goose%20Amphitheatre%20Yogurt/Banner.svg">
+
+- 3ltr: `   `
+- President: N/A
+- **Laws: [(Link to document)](./Nations/missing/laws.md).**
+- Flag: <img height="12px" alt="Flag of    " style="vertical-align: middle;" src="./Nations/missing/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
+- Land Size: not yet calculated™
+- Map: coming soon™
+
 ### Directly Incredible Kilometer
 
+- 3ltr: `DIK`
 - President: NormalFery (Fery)
-- **Laws: soon™**
-- Flag: <img height="12px" alt="Flag of Directly Incredible Kilometer" style="vertical-align: middle;" src="./Nations/directly-incredible-kilometer/dik-flag.png"> [(Link to image)](./Nations/directly-incredible-kilometer/dik-flag.png)
+- **Laws: [(Link to document)](./Nations/DIK/laws.md)**
+- Flag: <img height="12px" alt="Flag of Directly Incredible Kilometer" style="vertical-align: middle;" src="./Nations/directly-incredible-kilometer/dik-flag.png"> [(Link to image)](./Nations/DIK/dik-flag.png)
 - Land Size: not yet calculated™
 - Map: coming soon™
 
 ## Companies
 
-### GREAT
+### GREAT Transit Corp.
 
-<img width="300px" alt="Quartz Media LLC Banner" src="./Companies/missing/GTEAT/GREATlogo.svg">
+<img width="300px" alt="GREAT Transit Corp. Banner" src="./Companies/missing/GREAT/GREAT.svg">
 
 - Type: Transport
 - Description: "Providing convenient transportation to all."
-- Origin: unknowm
-- Locations: UNK
-- Owner(s): Blurryface
-- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/missing/GTEAT/GREATicon.svg"> [(Link to image)](./Companies/missing/GTEAT/GREATicon.svg)
+- Origin: `   `
+- Locations: 
+    - Oak Station            @ `  ` - Oak District
+    - Evo Station            @ `  ` - Evo District
+    - Tilapia Station        @ `  ` - Tilapia District
+    - Faux Plains Station    @ `  ` - Faux Plains District
+    - Haggstrom Station      @ `  ` - Ploopy District
+    - Industrial GREAT       @ `  ` - Evo <-> Industrial District
+    - iGREAT (International) @ `  ` - (Station pending construction) <-> `DIK` - Mainland
+- Owner(s): Blurryface, WorldWidePixel
+- Icon: <img height="12px" alt="GREAT Transit Corp. Icon" style="vertical-allign:middle;" src="./Companies/missing/GREAT/Rails.svg"> [(Link to image)](./Companies/missing/GREAT/Rails.svg)
 - Worth: Not Yet Calculated™
 
 ### Quartz Media LLC
@@ -81,12 +101,25 @@ You can make it near the borders of a nation but never inside one, you can't jus
     - Quartz Studios (ROP, CRSS)
     - Oak Studios (   , CRSS 3)
     - Golden Studios (Strudel, Craftocracy)
+    - Moyai Studios (MTM, MCZ)
 - Description: "Panorama's greatest audiovisual media producer, creators of Quartz News Network"
 - Origin: Republic of Panorama
-- Locations: ROP,    , Strudel
+- Locations: Amp. Dis. @ ROP, Oak District @ `   `, Strudel, MTM
 - Owner(s): Quartz Industries Inc.
 - Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Republic%20of%20Panorama/Quartz%Industries/Quartz%Media/QuartzMediaIcon.svg)
 - Worth: Not yet calculated™
+
+### Tim's Thousing Co.
+
+<img width="300px" alt="Tim's Thousing Co. Banner" src="./Companies/missing/TimsThousing/TT.svg">
+
+- Type: Housing Constructor
+- Description: "tThe #1 Construction Service in CRSS 3 !"
+- Origin: `   `
+- Locations: Upper Evo @ `   ` (X 46, Y 84, Z 34)
+- Owner(s): Tim
+- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/missing/TimsThousing/TT.svg"> [(Link to image)](./Companies/missing/TimsThousing/TT.svg)
+- Worth: Not Yet Calculated™
 
 <!-- ### Public Browser Map
 
