@@ -58,7 +58,7 @@ You can make it near the borders of a nation but never inside one, you can't jus
 - 3ltr: `   `
 - President: N/A
 - **Laws: [(Link to document)](./Nations/missing/laws.md).**
-- Flag: <img height="12px" alt="Flag of    " style="vertical-align: middle;" src="./Nations/missing/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
+- Flag: <img height="12px" alt="Flag of    " style="vertical-align: middle;" src="./Nations/missing/Flag.svg"> [(Link to image)](./Nations/missing/Flag.svg)
 - Land Size: not yet calculated™
 - Map: coming soon™
 
@@ -67,7 +67,7 @@ You can make it near the borders of a nation but never inside one, you can't jus
 - 3ltr: `DIK`
 - President: NormalFery (Fery)
 - **Laws: [(Link to document)](./Nations/DIK/laws.md)**
-- Flag: <img height="12px" alt="Flag of Directly Incredible Kilometer" style="vertical-align: middle;" src="./Nations/directly-incredible-kilometer/dik-flag.png"> [(Link to image)](./Nations/DIK/dik-flag.png)
+- Flag: <img height="12px" alt="Flag of Directly Incredible Kilometer" style="vertical-align: middle;" src="./Nations/DIK/dik-flag.png"> [(Link to image)](./Nations/DIK/dik-flag.png)
 - Land Size: not yet calculated™
 - Map: coming soon™
 
