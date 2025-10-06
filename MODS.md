@@ -16,9 +16,30 @@ Ornithe mods.
 
 ## Server-Side
 
-### meow mod 1
+### Meaningless (for you) mods
 
-mewo mrrp meoww
+- Alternate Current
+- c²me
+- calcmod
+- cantilever
+- Chunky
+- cloth config
+- fabric api
+- fabric language kotlin
+- fabric proxy lite
+- ferritecore
+- floodgate
+- forgeconfigapi port
+- krypton
+- leave us in peace!
+- midnightlib
+- misctweaks
+- otterlib
+- servercore
+- servux
+- view distance fix
+- worldedit
+- yacl
 
 ### mewo mod 2
 
