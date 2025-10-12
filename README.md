@@ -9,13 +9,17 @@ This is CRSS 3, a server created by [Blurry](https://blurry.gay).
 
 We've been doing this for a good while, and our server has many structures and has had many players.
 
-It currently has 2 main nations, `   `, and DIK.
+It currently has 2 main nations, GAF, and DIK.
 
 We have an [Youtube channel](https://yt.crss.cc) where we post content from our server. You can subscribe to it to stay tuned with CRSS content and new episodes of Quartz News Network.
 
 The seed used in the world is `Glacier`.
 
+### CRSS Wiki
 
+For more up to date info about CRSS in general, [visit the CRSS Wiki](https://wiki.crss.cc)!
+
+Anyone can contribute, so if you have new (AND TRUTHFUL) information, register and write it!
 
 ## Rules
 
@@ -42,7 +46,7 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 <img width="300px" alt="Banner of Goose Amphitheatre Yogurt" src="./Nations/Goose%20Amphitheatre%20Yogurt/Banner.svg">
 
-- 3ltr: `GAY`
+- [TLA](https://wiki.crss.cc/wiki/tla): `GAY`
 - President: Steve
 - **Laws: [(Link to document)]().**
 - Flag: <img height="12px" alt="Flag of Goose Ampitheatre Yogurt" style="vertical-align: middle;" src="./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg"> [(Link to image)](./Nations/Goose%20Amphitheatre%20Yogurt/Flag.svg)
@@ -51,20 +55,20 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 ↑↑↑ template ↑↑↑ -->
 
-### `   `
+### Glacier Anarchist Federation
 
-<img width="300px" alt="Banner of    " src="./Nations/Goose%20Amphitheatre%20Yogurt/Banner.svg">
+<img width="300px" alt="Banner of the Glacier Anarchist Federation" src="./Nations/GAF/GAF_flag.svg">
 
-- 3ltr: `   `
-- President: N/A
-- **Laws: [(Link to document)](./Nations/missing/laws.md).**
-- Flag: <img height="12px" alt="Flag of    " style="vertical-align: middle;" src="./Nations/missing/Flag.svg"> [(Link to image)](./Nations/missing/Flag.svg)
+- [TLA](https://wiki.crss.cc/wiki/tla): `GAF`
+- Leader: N/A
+- **Laws: [(Link to document)](./Nations/GAF/laws.md).**
+- Flag: <img height="12px" alt="Flag of the Glacier Anarchist Federation" style="vertical-align: middle;" src="./Nations/GAF/GAF_Flag.svg"> [(Link to image)](./Nations/GAF/GAF_Flag.svg)
 - Land Size: not yet calculated™
 - Map: coming soon™
 
 ### Directly Incredible Kilometer
 
-- 3ltr: `DIK`
+- [TLA](https://wiki.crss.cc/wiki/tla): `DIK`
 - President: NormalFery (Fery)
 - **Laws: [(Link to document)](./Nations/DIK/laws.md)**
 - Flag: <img height="12px" alt="Flag of Directly Incredible Kilometer" style="vertical-align: middle;" src="./Nations/DIK/dik-flag.png"> [(Link to image)](./Nations/DIK/dik-flag.png)
@@ -77,17 +81,18 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 <img width="300px" alt="GREAT Transit Corp. Banner" src="./Companies/missing/GREAT/GREAT.svg">
 
+- [TLA](https://wiki.crss.cc/wiki/tla): `GRT`
 - Type: Transport
 - Description: "Providing convenient transportation to all."
-- Origin: `   `
+- Origin: GAF
 - Locations: 
-    - Oak Station            @ `  ` - Oak District
-    - Evo Station            @ `  ` - Evo District
-    - Tilapia Station        @ `  ` - Tilapia District
-    - Faux Plains Station    @ `  ` - Faux Plains District
-    - Haggstrom Station      @ `  ` - Ploopy District
-    - Industrial GREAT       @ `  ` - Evo <-> Industrial District
-    - iGREAT (International) @ `  ` - (Station pending construction) <-> `DIK` - Mainland
+    - Oak Station            @ GAF - Oak Commune
+    - Evo Station            @ GAF - Evo Commune
+    - Tilapia Station        @ GAF - Tilapia Commune
+    - Faux Plains Station    @ GAF - Faux Plains Commune
+    - Haggstrom Station      @ GAF - Ploopy Commune
+    - Industrial GREAT       @ GAF - Evo <-> Industrial Commune
+    - iGREAT (International) @ `GAF` - (Station pending construction) <-> `DIK` - Mainland
 - Owner(s): Blurryface, WorldWidePixel
 - Icon: <img height="12px" alt="GREAT Transit Corp. Icon" style="vertical-allign:middle;" src="./Companies/missing/GREAT/Rails.svg"> [(Link to image)](./Companies/missing/GREAT/Rails.svg)
 - Worth: Not Yet Calculated™
@@ -96,29 +101,29 @@ You can make it near the borders of a nation but never inside one, you can't jus
 
 <img width="300px" alt="Quartz Media LLC Banner" src="./Companies/Republic of Panorama/Quartz Industries/QMBanner.svg">
 
+- [TLA](https://wiki.crss.cc/wiki/tla): `QTZ`
 - Type: Audiovisual Media Producer
   - Studios:
     - Quartz Studios (ROP, CRSS)
-    - Oak Studios (   , CRSS 3)
-    - Golden Studios (Strudel, Craftocracy)
-    - Moyai Studios (MTM, MCZ)
+    - Oak Studios (GAF, CRSS 3)
 - Description: "Panorama's greatest audiovisual media producer, creators of Quartz News Network"
 - Origin: Republic of Panorama
-- Locations: Amp. Dis. @ ROP, Oak District @ `   `, Strudel, MTM
+- Locations: Amp. Dis. @ ROP, Oak District @ GAF, Strudel, MTM
 - Owner(s): Quartz Industries Inc.
 - Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/Republic of Panorama/Quartz Industries/QMIcon.svg"> [(Link to image)](./Companies/Republic%20of%20Panorama/Quartz%Industries/Quartz%Media/QuartzMediaIcon.svg)
 - Worth: Not yet calculated™
 
 ### Tim's Thousing Co.
 
-<img width="300px" alt="Tim's Thousing Co. Banner" src="./Companies/missing/TimsThousing/TT.svg">
+<img width="300px" alt="Tim's Thousing Co. Banner" src="./Companies/GAF/TimsThousing/TT.svg">
 
+- [TLA](https://wiki.crss.cc/wiki/tla): `TTT`
 - Type: Housing Constructor
 - Description: "tThe #1 Construction Service in CRSS 3 !"
-- Origin: `   `
-- Locations: Upper Evo @ `   ` (X 46, Y 84, Z 34)
+- Origin: `GAF`
+- Locations: Upper Evo @ GAF (X 46, Y 84, Z 34)
 - Owner(s): Tim
-- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/missing/TimsThousing/TT.svg"> [(Link to image)](./Companies/missing/TimsThousing/TT.svg)
+- Icon: <img height="12px" alt="Quartz Media LLC Icon" style="vertical-allign:middle;" src="./Companies/GAF/TimsThousing/TT.svg"> [(Link to image)](./Companies/GAF/TimsThousing/TT.svg)
 - Worth: Not Yet Calculated™
 
 <!-- ### Public Browser Map
