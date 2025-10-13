@@ -2,7 +2,7 @@
 
 Welcome to Clyde's Real Survival SMP (CRSS) 3 !
 
-## Information
+# Server-specific Information
 
 This is CRSS 3, a server created by [Blurry](https://blurry.gay). 
 *This* server's twist is that it's stuck on [b1.7.3](https://minecraft.wiki/w/b1.7.3) forever!
@@ -15,30 +15,90 @@ We have an [Youtube channel](https://yt.crss.cc) where we post content from our 
 
 The seed used in the world is `Glacier`.
 
-### CRSS Wiki
+# CRSS Wiki
 
 For more up to date info about CRSS in general, [visit the CRSS Wiki](https://wiki.crss.cc)!
 
 Anyone can contribute, so if you have new (AND TRUTHFUL) information, register and write it!
 
-## Rules
+# Rules
 
-1. The use of modified clients that give an unfair advantage to players, such as hacked clients, is not permitted.
-    - You are not allowed to use them even for their legitimate features, such as a "fullbright" option.
-    - If admins suspect you are hacking you will be immediately banned.
-2. Do not modify or destroy (grief) other player's constructions without their consent, or steal any of their items.
-    - You are allowed to visit any build, as long as you don't take anything, and if you do you pay them back.
-    - You should ask permission in the discord or the in-game chat before modifying builds.
-3. Follow the laws of the nations you are in to avoid issues with other players and making the server not fun to play.
-    - If you feel the laws are too vague, feel free to ask the people in charge of them what they mean with something, and feel free to contribute to them. Complaining that they don't make sense won't get you anywhere.
-    - Breaking laws won't necessarily get you banned, the nation you are in will take measures and punish you for your actions as they see fit.
-4. Do not attempt to make nations where the territory is already owned by another nation.
-You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
-    - Other nations are free to claim more territory whenever they feel like it, as long as it doesn't take other nations' territory with it.
+Here are the main rules that are applicable to everything CRSS:
 
-***Failing to follow these rules may result in a ban.***
+1. Don't be a dick.
+    - Repeatedly sending some phrase or word with the intention to piss someone off is not okay at all. We want everybody's stay to be enjoyable.
+    - For example, stating you're currently experiencing natural phenomena that's often taken as disrespectful towards people around you, is considered being a dick.
+    - Griefing, insulting for no reason, and giving non constructive critiques will be considered as being a dick.
+    - We're including things such as homophobia, transphobia, political extremism, and religious extremism as being a dick.
 
-## Nations
+2. Don't hack.
+    - This should go without saying, any use of a modified client with the intention of gaining an unfair advantage over other players is banned.
+    - Tools such as litematica, minihud, or whatever y'all use to make farms these days are still allowed.
+
+3. Don't import drama
+    - External drama isn't welcome here. Keep that to your DMs or /tells, we don't want to turn this place into a drama museum.
+    - If you're a community manager from some other community and would like to inform us of serious information about a certain user or group, DM @blryface_ and they'll help you out.
+
+4. No explicit sexual content or topics.
+    - This is not an e-dating server, even though we have marriages and such. We do not want to know about what you want to do with yourself or someone else in here, and we will take immediate action.
+    - Silly jokes like 'hehe 69 lol funny number', naming a nation Directly Incredible Kilometer just so it shortens as `DIK`, and making upside down T's in game are alright. We don't care, as long as you're not gross about it.
+
+5. **Respect everyone's privacy.**
+    - I should not have to say this, but obviously don't expose private message and information about people in here.
+    - No doxing, no identity exposure, no taking anyone out the closet, **__respect their privacy.__**
+    - We will ban you immediately and permanently if you fail to follow this.
+
+6. Remember to have fun!
+    - owo meow mrrp :3
+
+# Information
+
+Here's general information for everything CRSS!
+
+## CRSS (Main Server)
+
+- Location
+    - Europe
+- IPs:
+    - `play.crss.cc`
+    - `play.crssi.cc`
+    - `crss.cc`
+    - `crssi.cc`
+- Version:
+    - 1.21.8
+- Age
+    - ~2.8 Years Old
+
+## CRSS 3 (Beta Server)
+
+- Location
+    - Europe
+- IPs:
+    - `play.crss.cc:26069`
+    - `play.crssi.cc:26069`
+    - `crss.cc:26069`
+    - `crssi.cc:26069`
+- Version:
+    - b1.7 - b1.7.3
+- Age
+    - ~6 Months Old
+
+# FAQ
+
+- How do I start a nation?
+    - Add information about it on [our GitHub](<https://github.com/crss666/crss>) and/or [our Wiki](<https://wiki.crss.cc>)! The Community Managers can help you put it up correctly. Since our wiki doesn't accept SVGs yet, you can keep the SVG versions of your flag and banner on the GitHub instead.
+- Do I need to engage in the geopolitics roleplay?
+    - No! You're free to do what you want. But, if you do engage in the roleplay, and only seem to say you're out to benefit yourself, people will not like you a lot... so try not doing that :p
+- I need help! Something went out of control, I died somewhere that's impossible to get my items back, or another player is annoying everyone!
+    - Don't hesitate to ping us. We will try to help you achieve what you need, as long as it isn't in the "give me 67 diamonds pls :3" sense.
+- I want to suggest something! I want more information on X!
+    - Ping @blryface_ on Discord. They'll tell you to ping *other people* if its out of their control.
+
+# Final notes
+
+We aim to be a friendly and nice place to stay at! Remember to have fun. If you make people not want to play, we're gonna make you be unable to play :3c /silly /srs
+
+# Nations
 
 <!-- ↓↓↓ template ↓↓↓ 
 
@@ -75,7 +135,7 @@ You can make it near the borders of a nation but never inside one, you can't jus
 - Land Size: not yet calculated™
 - Map: coming soon™
 
-## Companies
+# Companies
 
 ### GREAT Transit Corp.
 
