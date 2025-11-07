@@ -16,44 +16,93 @@ Ornithe mods.
 
 ## Server-Side
 
-### Meaningless (for you) mods
+### Server-side Optimization/Integration / Misc
 
-- Alternate Current
-- c²me
-- calcmod
-- cantilever
-- Chunky
-- cloth config
-- fabric api
-- fabric language kotlin
-- fabric proxy lite
-- ferritecore
-- floodgate
-- forgeconfigapi port
-- krypton
-- leave us in peace!
-- midnightlib
-- misctweaks
-- otterlib
-- servercore
-- servux
-- view distance fix
-- worldedit
-- yacl
+- [calcmod](https://modrinth.com/plugin/calcmod)
+- [cantilever](https://modrinth.com/mod/cantilever)
+    - We use a modified `1.0.1c` jar that makes it work on any version.
+- [Chunky](https://modrinth.com/plugin/chunky)
+- [cloth config](https://modrinth.com/mod/cloth-config)
+- [Clumps](https://modrinth.com/mod/clumps)
+- [Customizable Player Models - Flashback Compat](https://modrinth.com/mod/cpm-flashback)
+- [Customizable Player Models - OSC Compat](https://modrinth.com/mod/cpmoscc)
+- [Customizable Player Models](https://modrinth.com/plugin/custom-player-models)
+- [fabric api](https://modrinth.com/mod/fabric-api)
+- [fabric language kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [fabric proxy lite](https://modrinth.com/mod/fabricproxy-lite)
+- [ferritecore](https://modrinth.com/mod/ferrite-core)
+- [Geyser Floodgate](https://modrinth.com/mod/floodgate)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [Jade](https://modrinth.com/mod/jade)
+- [forgeconfigapi port](https://modrinth.com/mod/forge-config-api-port)
+- [krypton](https://modrinth.com/mod/krypton)
+    - [FNP Patcher](https://modrinth.com/mod/kryptonfnp-patcher)
+- [leave us in peace!](https://modrinth.com/mod/leaves-us-in-peace)
+- [midnightlib](https://modrinth.com/mod/midnightlib)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [misctweaks](https://modrinth.com/mod/misctweaks)
+- [otterlib](https://modrinth.com/plugin/otterlib)
+- [Panda Lead Break](https://modrinth.com/mod/pandaleadbreak)
+- [Panda View Adjust](https://blurry.gay/fourohfour)
+- [Panda Ignore](https://modrinth.com/mod/pandaignore)
+- [Panda Colors](https://modrinth.com/mod/panda-colors)
+<!-- - [Panda Command Whitelist](https://modrinth.com/mod/pandacommandwhitelist) I plan to add it when I have the patience to make a good config -->
+- [Panda Block Name](https://modrinth.com/mod/pandablockname)
+- [Panda Unique Item](https://modrinth.com/mod/panda-unique-item)
+- [servercore](https://modrinth.com/mod/servercore)
+- [servux](https://modrinth.com/mod/servux)
+- [view distance fix](https://modrinth.com/mod/view-distance-fix)
+- [Vivecraft](https://modrinth.com/mod/vivecraft)
+- [Very Many Players](https://modrinth.com/mod/vmp-fabric)
+- [Show Me What You Got](https://modrinth.com/mod/show-me-what-you-got)
+- [worldedit](https://modrinth.com/plugin/worldedit)
+- [yacl](https://modrinth.com/mod/yacl)
 
-### mewo mod 2
+### Structure Mods
 
-nyaa
+We don't really add anything that feels unminecraft-y, whatever that is.
 
-## Client-Side
+- [Repurposed  Structures](https://modrinth.com/mod/repurposed-structures-fabric)
+- [WITS](https://modrinth.com/mod/wits)
 
-### mrrp mod 1
+### Admin Tools
 
-:3c
+- [Ledger](https://modrinth.com/mod/ledger)
+- [Universal Ledger](https://modrinth.com/mod/universal-ledger)
 
-### nyaa mod 2
+### Mini/World/WebMap
 
->:3
+- MiniMap and WorldMap
+    - [JourneyMap](https://modrinth.com/mod/journeymap)
+    - [MapFrontiers](https://modrinth.com/mod/mapfrontiers)
+- WebMap
+    - [SquareMap](https://modrinth.com/plugin/squaremap)
+
+### Voice Chat
+
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+    - [Advanced Groups](https://modrinth.com/mod/advanced-groups)
+    - [Enhanced Groups](https://modrinth.com/mod/enhanced-groups)
+    - [AudioPlayer](https://modrinth.com/mod/audioplayer)
+    - [Voice Chat Interaction](https://modrinth.com/mod/voice-chat-interaction)
+    - [Wiretap](https://modrinth.com/mod/wiretap)
+- [Customizable Player Models - SVC Compat](https://modrinth.com/mod/cpmsvcc)
+
+### General Utility
+
+- [Sit!](https://modrinth.com/mod/sit!)
+- [Styled Nicknames](https://modrinth.com/mod/styled-nicknames)
+- [TAB](https://modrinth.com/plugin/tab-was-taken)
+- [**Leashable Players**](https://modrinth.com/mod/leashable-players)
+
+### I Like Trains
+
+- [Rail Placement Fix](https://modrinth.com/mod/rail-placement-fix)
+
+Honorable Mention:
+- [TrainCarts](https://modrinth.com/plugin/traincarts)
+    - Allowed us to **✨TAINS!!!✨** from [1.8](https://minecraft.wiki/w/1.8)
+    to [1.12.2](https://minecraft.wiki/w/1.12.2)
 
 ## Notes!
 
@@ -67,5 +116,3 @@ the most-used or most-requested option.
 - If one of the mods is giving you a super-specific
 'Millions to one!' issue or nitpick with one
 of the mods, yell at us at discord.
-
-
