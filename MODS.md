@@ -106,13 +106,10 @@ Honorable Mention:
 
 ## Notes!
 
-- No mods in this list are *required*, you'll
-just have enhanced things™ if you add them.
-
 - We will try to support as much mods as we can,
 but if any of them conflict, we will pick
 the most-used or most-requested option.
 
 - If one of the mods is giving you a super-specific
-'Millions to one!' issue or nitpick with one
-of the mods, yell at us at discord.
+'Millions to one!' issue or you have a nitpick with
+one of the mods, yell at us at discord.
