@@ -4,7 +4,7 @@ Welcome to Clyde's Real Survival SMP (CRSS)!
 
 # Server-specific Information
 
-This is CRSS, a server created by [Blurry](https://blurry.gay). The server's twist is that it started on [b1.0](https://minecraft.wiki/w/b1.0) and updated all the way to [1.21.8](https://minecraft.wiki/w/1.21.8) on the start of each month, or more recently, when new versions get supported by the server-side mods we use.
+This is CRSS, a server created by [Blurry](https://blurry.gay). The server's twist is that it started on [b1.0](https://minecraft.wiki/w/b1.0) and updated all the way to [1.21.11](https://minecraft.wiki/w/1.21.11) on the start of each month, or more recently, when new versions get supported by the server-side mods we use.
 
 We've been doing this for a good while, and our server has many structures and has had many players.
 
